@@ -1,0 +1,12 @@
+C:\Users\morco\OneDrive\Desktop\APW\TECNM.PRACTICA3\ISR.Core\bin\Debug\net6.0\ISR.Core.deps.json
+C:\Users\morco\OneDrive\Desktop\APW\TECNM.PRACTICA3\ISR.Core\bin\Debug\net6.0\ISR.Core.dll
+C:\Users\morco\OneDrive\Desktop\APW\TECNM.PRACTICA3\ISR.Core\bin\Debug\net6.0\ISR.Core.pdb
+C:\Users\morco\OneDrive\Desktop\APW\TECNM.PRACTICA3\ISR.Core\obj\Debug\net6.0\ISR.Core.csproj.AssemblyReference.cache
+C:\Users\morco\OneDrive\Desktop\APW\TECNM.PRACTICA3\ISR.Core\obj\Debug\net6.0\ISR.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morco\OneDrive\Desktop\APW\TECNM.PRACTICA3\ISR.Core\obj\Debug\net6.0\ISR.Core.AssemblyInfoInputs.cache
+C:\Users\morco\OneDrive\Desktop\APW\TECNM.PRACTICA3\ISR.Core\obj\Debug\net6.0\ISR.Core.AssemblyInfo.cs
+C:\Users\morco\OneDrive\Desktop\APW\TECNM.PRACTICA3\ISR.Core\obj\Debug\net6.0\ISR.Core.csproj.CoreCompileInputs.cache
+C:\Users\morco\OneDrive\Desktop\APW\TECNM.PRACTICA3\ISR.Core\obj\Debug\net6.0\ISR.Core.dll
+C:\Users\morco\OneDrive\Desktop\APW\TECNM.PRACTICA3\ISR.Core\obj\Debug\net6.0\refint\ISR.Core.dll
+C:\Users\morco\OneDrive\Desktop\APW\TECNM.PRACTICA3\ISR.Core\obj\Debug\net6.0\ISR.Core.pdb
+C:\Users\morco\OneDrive\Desktop\APW\TECNM.PRACTICA3\ISR.Core\obj\Debug\net6.0\ref\ISR.Core.dll

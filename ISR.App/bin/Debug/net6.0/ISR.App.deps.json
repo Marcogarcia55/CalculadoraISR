@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ISR.App/1.0.0": {
+        "dependencies": {
+          "ISR.Core": "1.0.0"
+        },
+        "runtime": {
+          "ISR.App.dll": {}
+        }
+      },
+      "ISR.Core/1.0.0": {
+        "runtime": {
+          "ISR.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ISR.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ISR.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
